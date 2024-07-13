@@ -4,9 +4,7 @@ import Location from './Component/Location';
 
 function App() {
   return (
-    <>
-      <Location />
-    </>
+    <Location />
   );
 }
 
